@@ -1,6 +1,6 @@
 # APR LLM Tutorial
 
-## Important
+## ⚠️ Important ⚠️
 <u>**This repository is currently being updated to support OpenAI's current API and provided models.**</u>
 
 ## Explanation
